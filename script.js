@@ -1,4 +1,4 @@
-const imagens = ["fotos/foto01.jpg", "fotos/foto02.jpg", "fotos/foto03.jpg", "fotos/foto04.jpg", "fotos/foto05.jpg", "fotos/foto06.jpg", "fotos/foto07.jpg", "fotos/foto08.jpg", "fotos/foto09.jpg"  ]
+const imagens = ["foto01.jpg", "foto02.jpg", "fotos/foto03.jpg", "fotos/foto04.jpg", "fotos/foto05.jpg", "fotos/foto06.jpg", "fotos/foto07.jpg", "fotos/foto08.jpg", "fotos/foto09.jpg"  ]
 
 const img = document.getElementById("foto") //pega o elemento "img" do HTML
 let i = 0 //variável que defini a imagem exibida
